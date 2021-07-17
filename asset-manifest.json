@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/defi3Alyra/static/css/main.498d002a.chunk.css",
+    "main.js": "/defi3Alyra/static/js/main.fe78fa96.chunk.js",
+    "main.js.map": "/defi3Alyra/static/js/main.fe78fa96.chunk.js.map",
+    "runtime-main.js": "/defi3Alyra/static/js/runtime-main.63db1897.js",
+    "runtime-main.js.map": "/defi3Alyra/static/js/runtime-main.63db1897.js.map",
+    "static/js/2.da6c18c7.chunk.js": "/defi3Alyra/static/js/2.da6c18c7.chunk.js",
+    "static/js/2.da6c18c7.chunk.js.map": "/defi3Alyra/static/js/2.da6c18c7.chunk.js.map",
+    "index.html": "/defi3Alyra/index.html",
+    "precache-manifest.06038ebc135ba1f212fce0c53bfc5823.js": "/defi3Alyra/precache-manifest.06038ebc135ba1f212fce0c53bfc5823.js",
+    "service-worker.js": "/defi3Alyra/service-worker.js",
+    "static/css/main.498d002a.chunk.css.map": "/defi3Alyra/static/css/main.498d002a.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63db1897.js",
+    "static/js/2.da6c18c7.chunk.js",
+    "static/css/main.498d002a.chunk.css",
+    "static/js/main.fe78fa96.chunk.js"
+  ]
+}
